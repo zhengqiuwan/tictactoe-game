@@ -1,5 +1,4 @@
-import { ConnectButton,  lightTheme, } from "@rainbow-me/rainbowkit";
-import { RainbowKitProvider, Theme } from '@rainbow-me/rainbowkit';
+import { ConnectButton,  RainbowKitProvider, Theme } from "@rainbow-me/rainbowkit";
 
 import styles from "../../styles/Navbar.module.css";
 
